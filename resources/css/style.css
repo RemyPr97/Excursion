@@ -1,0 +1,54 @@
+.titre {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: Verdana;
+}
+
+body {
+  background-color: #000;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  font-family: Verdana, sans-serif;
+}
+
+.titre2 {
+  color: white;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+}
+
+.text {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.comingsoon {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+}
+
+.logo {
+  color: gray;
+  text-align: right;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: Verdana, sans-serif;
+}
+
+.app {
+  text-align: center;
+}
